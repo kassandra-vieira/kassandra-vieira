@@ -6,13 +6,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kassandra-vieira&show_icons=true&theme=radical&hide_border=true&bg_color=1E1A2F&title_color=FF69B4&icon_color=FF69B4&text_color=FFB7C5" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&bg_color=1E1A2F&title_color=FF69B4&text_color=FFB7C5&langs_count=6" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassandra-vieira&layout=compact&theme=radical&hide_border=true&bg_color=1E1A2F&title_color=FF69B4&text_color=FFB7C5&langs_count=6" height="160px" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=radical&hide_border=true&background=1E1A2F&stroke=FF69B4&ring=FF69B4&fire=FFB7C5&currStreakNum=FFB7C5&sideNums=FFB7C5&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=FFB7C5" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kassandra-vieira&theme=radical&hide_border=true&background=1E1A2F&stroke=FF69B4&ring=FF69B4&fire=FFB7C5&currStreakNum=FFB7C5&sideNums=FFB7C5&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=FFB7C5" />
 </div>
 
 ---
